@@ -241,7 +241,6 @@ function continueStatement(numero) {
   return arrayResult;
 }
 
-// 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
 // npm test JSIII.test.js
 
 // No modificar nada debajo de esta línea
